@@ -1,0 +1,14 @@
+.obituaries-img-txt{
+    display: flex;
+    height: 6.5em;
+    width: 25em;
+}
+.obt-img{
+    height: 5em;
+    width: 9em;
+    margin: 1em;
+    object-fit: cover;
+}
+.obt-p{
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.stick{
+    height: auto;
+    width: 100%;
+    background: white;
+    position: fixed;
+    margin: 0;
+}
+.everything-else{
+    position: relative;
+    top: 14em;
+    z-index: -1;
+}

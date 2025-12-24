@@ -1,0 +1,14 @@
+.heading-container{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 11em;
+}
+h2{
+    font-weight: 600;
+    font-size: 2em;
+}
+.heading-line{
+    border-left: 5px solid  rgb(224, 122, 107);
+    font-size: 1em;
+    padding: 5px;
+}

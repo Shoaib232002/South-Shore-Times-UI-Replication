@@ -1,0 +1,37 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202e38;
+}
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5em;
+    padding: 4px;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    align-items: center;
+}
+.nav-options{
+    margin-left: 10em;
+}
+.nav-icons ul{
+    gap: 20px;
+}
+.nav-icon-search{
+    height: 20px;
+    width: 20px;
+}
+.nav-icon-menu{
+    height: 26px;
+    width: 26px;
+}
+.nav-icon-theme{
+    height: 20px;
+    width: 20px;
+}
+.nav-icons{
+    margin-left: 10em;
+}

@@ -1,0 +1,40 @@
+.bcard{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 25em;
+}
+.bimg{
+    height: 14em;
+    width: 23em;
+    margin-top: 1em;
+}
+.bpara{
+    color: gray;
+    width: 23em;
+}
+h3{
+    font-size: large;
+}
+.seg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.subseg{
+    display: flex;
+    width: 50em;
+    align-items: start;
+    gap:20em
+}
+.seg .bcard .card-button{
+    background: #5d8aa8;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    color: white;
+    font-size: small;
+    width: 12em;
+    margin: 1em 0;
+}

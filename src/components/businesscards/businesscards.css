@@ -1,0 +1,25 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    margin: 1em;
+}
+.card-container img{
+    height: 12em;
+    width: 23em;
+}
+.card-button{
+    background: #5d8aa8;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    color: white;
+    font-size: small;
+    margin: 1em 0;
+}
+h3{
+    width: 23em;
+    font-weight: 500;
+    font-size: medium;
+}

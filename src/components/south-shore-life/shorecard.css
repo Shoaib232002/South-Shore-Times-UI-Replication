@@ -1,0 +1,25 @@
+.bcard{
+    display: flex;   
+}
+.bimg{
+    height: 10em;
+    width: 10em;
+}
+.simg{
+    height: 5em;
+    width: 9em;
+}
+.scard{
+    display: flex;
+    align-items: start;
+    width: 3em;
+    gap:1em;
+    margin:1em
+}
+.sch3{
+    width:13em;
+    font-size: medium;
+}
+.card-button{
+    margin:0 0 1em 0;
+}

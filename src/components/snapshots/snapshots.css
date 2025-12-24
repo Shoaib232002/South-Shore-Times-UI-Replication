@@ -1,0 +1,10 @@
+.snapshot-container{
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    margin-top: 1em;
+}
+.bg-image img{
+    height: 30em;
+    width: 17em;
+}

@@ -1,0 +1,11 @@
+.card-segement{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
+.cardsegment1, .cardsegment2{
+    display: flex;
+    flex-direction: row;
+}

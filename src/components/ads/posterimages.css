@@ -1,0 +1,11 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.img-container img{
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    height:inherit;
+}
