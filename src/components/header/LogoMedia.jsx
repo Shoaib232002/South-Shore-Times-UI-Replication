@@ -2,7 +2,7 @@ import React from 'react'
 import './logoandmedia.css'
 import FacebookLogo from './assets/Facebook-icon.svg'
 import InstagramLogo from './assets/Instagram-icon.svg'
-import LinkedInLogo from './assets/LinkedIn-icon.svg'
+import LinkedInLogo from './assets/Linkedin-icon.svg'
 import WebsiteLogo from './assets/Logo.png'
 function LogoMedia() {
   return (
